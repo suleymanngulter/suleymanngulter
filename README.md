@@ -1,5 +1,7 @@
 # Süleyman Gülter
 
+![Hoş Geldiniz](https://media.giphy.com/media/mpnijcWZLhDy5PMRjs/giphy.gif)
+
 ## Hakkımda
 Merhaba! Ben Süleyman Gülter, tutkulu bir yazılım geliştiricisiyim. Lise yıllarında bir forum sitesi açarak başladığım programlama serüvenim, bugüne kadar pek çok farklı alanda ve projede tecrübe kazanmamı sağladı. Şu anda mobil ve masaüstü uygulama geliştirme ile ilgileniyorum ve aktif olarak .NET Core, Flutter ve Docker gibi teknolojiler üzerinde çalışıyorum.
 
@@ -22,8 +24,8 @@ Merhaba! Ben Süleyman Gülter, tutkulu bir yazılım geliştiricisiyim. Lise y�
 
 ## İletişim
 - **E-posta:** suleymangulter2@gmail.com
-- **LinkedIn:** [[LinkedIn profilinizin linki](https://www.linkedin.com/in/suleymanngulter/)]
-- **GitHub:** [[GitHub profilinizin linki](https://github.com/suleymanngulter)]
+- **LinkedIn:** [LinkedIn profilinizin linki]
+- **GitHub:** [GitHub profilinizin linki]
 
 ## İlgi Alanlarım
 - Yazılım geliştirme ve yeni teknolojiler öğrenme
