@@ -1,16 +1,38 @@
-## Hi there 👋
+# Süleyman Güler
 
-<!--
-**suleymanngulter/suleymanngulter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hakkımda
+Merhaba! Ben Süleyman Güler, tutkulu bir yazılım geliştiricisiyim. Lise yıllarında bir forum sitesi açarak başladığım programlama serüvenim, bugüne kadar pek çok farklı alanda ve projede tecrübe kazanmamı sağladı. Şu anda mobil ve masaüstü uygulama geliştirme ile ilgileniyorum ve aktif olarak .NET Core, Flutter ve Docker gibi teknolojiler üzerinde çalışıyorum.
 
-Here are some ideas to get you started:
+## Teknik Beceriler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Diller ve Çerçeveler
+- **Backend:** .NET Core, ASP.NET Core, Mikroservisler
+- **Mobil:** Dart, Flutter
+- **Masaüstü:** .NET Framework, Windows Forms
+
+### Araçlar ve Teknolojiler
+- Docker
+- .NET
+- Flutter
+
+## Deneyimler
+- **Backend Geliştirme:** .NET Core ile API'ler ve mikroservisler geliştirme, Docker konteyner operasyonları.
+- **Mobil Geliştirme:** Flutter kullanarak mobil uygulamalar geliştirme.
+- **Masaüstü Geliştirme:** Windows Forms araçları ile masaüstü uygulamaları geliştirme.
+
+## İletişim
+- **E-posta:** suleymangulter2@gmail.com
+- **LinkedIn:** [[LinkedIn profilinizin linki](https://www.linkedin.com/in/suleymanngulter/)]
+- **GitHub:** [[GitHub profilinizin linki](https://github.com/suleymanngulter)]
+
+## İlgi Alanlarım
+- Yazılım geliştirme ve yeni teknolojiler öğrenme
+- Topluluk etkinliklerine katılma ve organizasyon yapma
+- Açık kaynak projelere katkıda bulunma
+
+## Hedeflerim
+- Teknik bilgi ve becerilerimi sürekli olarak geliştirmek
+- Yazılım alanında yenilikçi projeler geliştirmek
+- Profesyonel kariyerimde önemli başarılar elde etmek
+
+Teşekkürler!
