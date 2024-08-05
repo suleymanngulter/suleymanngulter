@@ -24,8 +24,8 @@ Merhaba! Ben Süleyman Gülter, tutkulu bir yazılım geliştiricisiyim. Lise y�
 
 ## İletişim
 - **E-posta:** suleymangulter2@gmail.com
-- **LinkedIn:** [[LinkedIn profilinizin linki](https://www.linkedin.com/in/suleymanngulter/)]
-- **GitHub:** [[GitHub profilinizin linki](https://github.com/suleymanngulter)]
+- **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/suleymanngulter/)]
+- **GitHub:** [[GitHub](https://github.com/suleymanngulter)]
 
 ## İlgi Alanlarım
 - Yazılım geliştirme ve yeni teknolojiler öğrenme
