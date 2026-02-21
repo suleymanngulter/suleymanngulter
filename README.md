@@ -47,8 +47,3 @@ Ben **Süleyman Gülter**, Düzce Üniversitesi'nde **Bilgisayar Mühendisliği*
 ## 📫 İletişim
 * **LinkedIn:** [linkedin.com/in/suleymanngulter/](https://www.linkedin.com/in/suleymanngulter/)
 * **GitHub:** [github.com/suleymanngulter](https://github.com/suleymanngulter)
-
----
-<p align="center">
-  <i>"Yaptığım her işte verimliliği ve toplumsal faydayı öncelikli hedef olarak görüyorum."</i>
-</p>
