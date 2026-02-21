@@ -1,40 +1,108 @@
 # Süleyman Gülter
 
-![Hoş Geldiniz](https://media.giphy.com/media/mpnijcWZLhDy5PMRjs/giphy.gif)
+## 🚀 Hakkımda
 
-## Hakkımda
-Merhaba! Ben Süleyman Gülter, tutkulu bir yazılım geliştiricisiyim. Lise yıllarında bir forum sitesi açarak başladığım programlama serüvenim, bugüne kadar pek çok farklı alanda ve projede tecrübe kazanmamı sağladı. Şu anda mobil ve masaüstü uygulama geliştirme ile ilgileniyorum ve aktif olarak .NET Core, Flutter ve Docker gibi teknolojiler üzerinde çalışıyorum.
+Ben Süleyman Gülter, **Bilgisayar Mühendisliği** öğrencisiyim. İnsan hayatına ve topluma fayda sağlamayı misyon edinmiş, verimlilik ve sürdürülebilirlik odaklı bir yazılım geliştiriciyim. Karmaşık sistemlerin analiz ve tasarımında en makul maliyetle en yüksek kaliteyi hedefleyerek projelerimi hayata geçiriyorum.
 
-## Teknik Beceriler
+---
 
-### Diller ve Çerçeveler
-- **Backend:** .NET Core, ASP.NET Core, Mikroservisler
-- **Mobil:** Dart, Flutter
-- **Masaüstü:** .NET Framework, Windows Forms
+## 🛠️ Teknik Yetkinlikler
 
-### Araçlar ve Teknolojiler
-- Docker
-- .NET
-- Flutter
+### **Backend & Database**
 
-## Deneyimler
-- **Backend Geliştirme:** .NET Core ile API'ler ve mikroservisler geliştirme, Docker konteyner operasyonları.
-- **Mobil Geliştirme:** Flutter kullanarak mobil uygulamalar geliştirme.
-- **Masaüstü Geliştirme:** Windows Forms araçları ile masaüstü uygulamaları geliştirme.
+* 
+**.NET Core & Node.js:** Mikroservis mimarisi ve çok katmanlı mimarilerde uzmanlık.
 
-## İletişim
-- **E-posta:** suleymangulter2@gmail.com
-- **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/suleymanngulter/)]
-- **GitHub:** [[GitHub](https://github.com/suleymanngulter)]
 
-## İlgi Alanlarım
-- Yazılım geliştirme ve yeni teknolojiler öğrenme
-- Topluluk etkinliklerine katılma ve organizasyon yapma
-- Açık kaynak projelere katkıda bulunma
+* 
+**Database:** MSSQL, MySQL, MongoDB ve PostgreSQL ile veri yönetimi.
 
-## Hedeflerim
-- Teknik bilgi ve becerilerimi sürekli olarak geliştirmek
-- Yazılım alanında yenilikçi projeler geliştirmek
-- Profesyonel kariyerimde önemli başarılar elde etmek
 
-Teşekkürler!
+* 
+**DevOps:** Docker ve CI/CD süreçleri üzerine deneyim.
+
+
+
+### **Yapay Zeka & Mobile**
+
+* 
+**AI:** RAG (Retrieval-Augmented Generation), LLM fine-tuning temelleri ve benzerlik metrikleri.
+
+
+* 
+**Mobile:** Flutter ve React-Native ile çapraz platform uygulama geliştirme.
+
+
+
+---
+
+## 💼 Deneyim ve Başarılar
+
+### **İş Deneyimi**
+
+* Tersan Shipyard | Backend Developer Intern: ERP programlama, .NET Core Web API ve mikroservis mimarisi üzerine projeler.
+
+
+* GDG On Campus Düzce University | Koordinatör: Hackathon koordinatörlüğü ve mülakat stratejilerinin yapılandırılması.
+
+
+* TBA Academy | Mobile Developer Intern: Flutter ile kütüphane otomasyonu geliştirme.
+
+
+
+### **Girişimcilik ve Ödüller**
+
+* 
+**SATaiLITE:** Sel riski tespit sistemi ile Girişimcilik Maratonu 2025 Finalisti.
+
+
+* 
+**TarlaBot:** İnsansız tarım aracı fikri ile Girişimcilik Maratonu 2024 Finalisti.
+
+
+
+---
+
+## 📂 Öne Çıkan Projeler
+
+| Proje | Teknoloji Yığını | Açıklama |
+| --- | --- | --- |
+| **Asistan API** | .NET Core, ChatGPT API | Mail özetleyen yapay zeka asistanı.
+
+ |
+| **Kütüphane Yönetimi** | React, Python AI, MongoDB | AI destekli içerik ve profil bazlı öneri sistemi.
+
+ |
+| **Gelir/Gider Analizi** | .NET Core, MySQL, Rest API | Kimlik doğrulama özellikli finansal yönetim aracı.
+
+ |
+| **Fitness Otomasyonu** | .NET Framework, Entity Framework | MSSQL tabanlı masaüstü yönetim sistemi.
+
+ |
+
+---
+
+## 🎓 Eğitim
+
+* **Düzce Üniversitesi:** Bilgisayar Mühendisliği (GPA: 3.19) | 2022 - 2026.
+
+
+* **Dumlupınar Üniversitesi:** Hazırlık Sınıfı (GPA: 3.01) | 2021 - 2022.
+
+
+
+---
+
+## 📫 İletişim
+
+* 
+**E-posta:** [suleymangulter2@gmail.com](mailto:suleymangulter2@gmail.com) 
+
+
+* 
+**Konum:** İstanbul / Kocaeli / Yalova 
+
+
+* **LinkedIn:** [linkedin.com/in/suleymanngulter/](https://www.linkedin.com/in/suleymanngulter/)
+* 
+**GitHub:** [github.com/suleymanngulter](https://github.com/suleymanngulter) 
