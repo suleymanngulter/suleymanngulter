@@ -29,7 +29,7 @@ Ben **Süleyman Gülter**, Düzce Üniversitesi'nde **Bilgisayar Mühendisliği*
 * **GDG On Campus Düzce University | Koordinatör:** Hackathon organizasyonu, ekip yönetimi ve mülakat stratejileri geliştirme.
 * **TBA Academy | Mobile Developer Intern:** Flutter ile kütüphane otomasyonu geliştirme.
 
-### **Ödüllü Girişimler**
+### **Girişimlerim**
 * **SATaiLITE:** Sel riski tespit sistemi (Girişimcilik Maratonu 2025 Finalisti).
 * **TarlaBot:** İnsansız tarım aracı projesi (Girişimcilik Maratonu 2024 Finalisti).
 
@@ -44,15 +44,7 @@ Ben **Süleyman Gülter**, Düzce Üniversitesi'nde **Bilgisayar Mühendisliği*
 
 ---
 
-## 🎓 Eğitim
-* **Düzce Üniversitesi:** Bilgisayar Mühendisliği (GPA: 3.19) | 2022 - 2026.
-* **Dumlupınar Üniversitesi:** Bilgisayar Mühendisliği Hazırlık (GPA: 3.01) | 2021 - 2022.
-
----
-
 ## 📫 İletişim
-* **E-posta:** [suleymangulter2@gmail.com](mailto:suleymangulter2@gmail.com)
-* **Konum:** İstanbul / Kocaeli / Yalova
 * **LinkedIn:** [linkedin.com/in/suleymanngulter/](https://www.linkedin.com/in/suleymanngulter/)
 * **GitHub:** [github.com/suleymanngulter](https://github.com/suleymanngulter)
 
