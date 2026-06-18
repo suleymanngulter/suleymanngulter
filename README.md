@@ -1,49 +1,57 @@
-# 👋 Merhaba, Ben Süleyman Gülter
+# 👋 Hello, I'm Süleyman Gülter
 
 <p align="left">
-  <img src="https://media.giphy.com/media/mpnijcWZLhDy5PMRjs/giphy.gif" width="300" alt="Yazılım Geliştirici Animasyonu">
+  <img src="https://media.giphy.com/media/mpnijcWZLhDy5PMRjs/giphy.gif" width="300" alt="Software Developer Animation">
 </p>
 
-## 🚀 Hakkımda
-Ben **Süleyman Gülter**, Düzce Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisiyim. Toplumsal fayda sağlamayı ve verimli sistemler inşa etmeyi görev edinen bir yazılım geliştiriciyim. Karmaşık analiz ve tasarım süreçlerinde sürdürülebilirliği ve maliyet etkinliğini önceliklendiriyorum.
+## 🚀 About Me
+I am a 4th-year Computer Engineering student at Düzce University. I am a software developer who loves to benefit people's lives and society. In the analysis and design of every project I undertake, I prioritize producing the best work at the most reasonable cost. Furthermore, I keep efficiency, sustainability, and social benefit as primary goals.
 
 ---
 
-## 🛠️ Teknik Yetkinlikler
+## 🛠️ Technical Skills
 
-### **Backend & Veritabanı**
-* **Teknolojiler:** .NET Core, Node.js, Entity Framework, Mikroservis Mimarisi, Multitier Architecture.
-* **Veritabanı:** MSSQL, MySQL, MongoDB, PostgreSQL.
-* **DevOps:** Mikroservis yönetimi ve Docker süreçleri.
-
-### **Yapay Zeka & Mobil**
-* **AI & ML:** RAG, LLM Fine-tuning (temel), Benzerlik Metrikleri (Similarity Metrics).
-* **Mobil:** Flutter ve React-Native.
+* **Backend & Architecture:** .NET Core Web API, Node.js, Java, REST API, Entity Framework, Microservices, and Multitier Architecture.
+* **Database:** MSSQL, MySQL, MongoDB, and PostgreSQL.
+* **DevOps & Tools:** Docker, Git, and GitHub.
+* **Frontend & Mobile:** React, Flutter, and React-Native.
+* **AI & Machine Learning:** RAG, LLM fine-tuning basics, Similarity Metrics, ChatGPT API integration, and Python-based recommendation systems.
+* **Soft Skills:** Management, Organization, Innovative Thinking, and Teamwork.
 
 ---
 
-## 💼 Deneyim ve Başarılar
+## 💼 Experience & Achievements
 
-### **Profesyonel Deneyim**
-* **Tersan Shipyard | Backend Developer Intern:** ERP Programlama ve .NET Core Web API ile mikroservis geliştirme.
-* **GDG On Campus Düzce University | Koordinatör:** Hackathon organizasyonu, ekip yönetimi ve mülakat stratejileri geliştirme.
-* **TBA Academy | Mobile Developer Intern:** Flutter ile kütüphane otomasyonu geliştirme.
+### **Professional Experience**
+* **Tersan Shipyard | Backend Developer Intern (2024):** I worked in ERP Programming. I focused on Backend, Microservice Architecture, and DevOps areas using .NET Core Web API.
+* **GDG On Campus Düzce University | Coordinator (2024-2025):** I coordinated the hackathon organization. I restructured the interview strategies by forming a team with a high capacity for adaptation. I successfully created a solution-oriented and open-minded team culture.
+* **TBA Academy | Mobile Developer Intern (2024):** I completed my mobile application development internship with Flutter and developed a library automation application.
 
-### **Girişimlerim**
-* **SATaiLITE:** Sel riski tespit sistemi (Girişimcilik Maratonu 2025 Finalisti).
-* **TarlaBot:** İnsansız tarım aracı projesi (Girişimcilik Maratonu 2024 Finalisti).
-
----
-
-## 📂 Öne Çıkan Projeler
-
-* **Asistan API:** ChatGPT API kullanarak gelen kutusundaki mailleri özetleyen .NET Core tabanlı yapay zeka asistanı.
-* **Yapay Zeka Destekli Kütüphane Yönetimi:** React arayüzü ve Python tabanlı AI ile profil odaklı öneriler sunan mikroservis projesi.
-* **Gelir/Gider Analizi:** .NET Core Web API ve MySQL ile geliştirilmiş, Authentication içeren finansal yönetim uygulaması.
-* **Araç Satış & Teknik Servis Takip:** .NET Framework ve MSSQL (Trigger, Stored Procedure) ile geliştirilen masaüstü sistemi.
+### **Entrepreneurship**
+* **SATaiLITE (2025):** We became one of the finalist teams in the Düzce Teknopark Entrepreneurship Marathon with our AI-powered flood risk detection system. It is a social benefit-focused startup aiming to provide early warnings using satellite data. *(GitHub: SATaiLITE-StartUp)*.
+* **TarlaBot (2024):** We were among the finalist teams in the Düzce Teknopark Entrepreneurship Marathon with our unmanned agricultural vehicle idea. This is an innovative autonomous solution aiming to increase efficiency in the agricultural sector. *(GitHub: TarlaBotStartUp)*.
 
 ---
 
-## 📫 İletişim
-* **LinkedIn:** [linkedin.com/in/suleymanngulter/](https://www.linkedin.com/in/suleymanngulter/)
+## 📂 Highlighted Projects
+
+* **Library Management System:** A comprehensive platform featuring a React-based UI, a scalable backend with microservices architecture, and MongoDB. It includes a Python-based AI module that provides content and profile-based book recommendations.
+* **Assistant API:** A .NET Core Web API built to automatically summarize unread emails or emails from a specific date in your inbox using the ChatGPT API.
+* **Income/Expense Analysis App:** A desktop application developed for financial management with income-expense tracking. It was built with .NET Core Web API, Entity Framework, MySQL, REST API, and includes an Authentication system.
+* **Vehicle Sales & Technical Service Tracking System:** A team-developed .NET Framework desktop application. We implemented database operations utilizing advanced MSSQL features such as triggers and stored procedures.
+* **Real Estate & Car Rental System:** I conducted requirements analysis, scenario design, and technical and legal feasibility studies for a rental system.
+
+---
+
+## 🎓 Education
+
+* **Düzce University (2022-2026):** Computer Engineering.
+* **Dumlupınar University (2021-2022):** Computer Engineering English Preparatory Class. Received a Pearson B1 Certificate.
+
+---
+
+## 📫 Contact
+
+* **LinkedIn:** [linkedin.com/in/suleymanngulter](https://www.linkedin.com/in/suleymanngulter)
 * **GitHub:** [github.com/suleymanngulter](https://github.com/suleymanngulter)
+* **Location:** Yalova / Kocaeli / İstanbul
