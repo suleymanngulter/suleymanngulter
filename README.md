@@ -35,6 +35,7 @@ I am a 4th-year Computer Engineering student at Düzce University. I am a softwa
 
 ## 📂 Highlighted Projects
 
+* **Kumsal Restaurant:** A microservice restaurant system built with Clean Architecture. TypeScript (Node) services, a Go newsletter service, RabbitMQ, PostgreSQL, Docker Compose, JWT, and CQRS catalog. *(GitHub: Restoran-Uygulamasi)*.
 * **Library Management System:** A comprehensive platform featuring a React-based UI, a scalable backend with microservices architecture, and MongoDB. It includes a Python-based AI module that provides content and profile-based book recommendations.
 * **Assistant API:** A .NET Core Web API built to automatically summarize unread emails or emails from a specific date in your inbox using the ChatGPT API.
 * **Income/Expense Analysis App:** A desktop application developed for financial management with income-expense tracking. It was built with .NET Core Web API, Entity Framework, MySQL, REST API, and includes an Authentication system.
