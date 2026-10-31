@@ -95,20 +95,20 @@ I am a Computer Engineering graduate from Düzce University. I specialize in bac
 ## 📫 Connect with Me
 
 <p align="left">
-  <!-- Web Sitesi Rozeti (Logoyu doğrudan suleymangulter.com favicon servisinden çeker) -->
+  <!-- Web Siteniz ve Doğrudan Siteden Çekilen Logo -->
   <a href="https://www.suleymangulter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" alt="Portfolio" />
+    <img src="https://s2.googleusercontent.com/s2/favicons?domain=suleymangulter.com&sz=128" width="38" height="38" alt="Website" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;" />
   </a>
-  <!-- LinkedIn Rozeti -->
+  <!-- LinkedIn (Animasyonlu İkon) -->
   <a href="https://www.linkedin.com/in/suleymanngulter/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="38" alt="LinkedIn" style="vertical-align: middle; margin-right: 8px;" />
   </a>
-  <!-- Gmail Rozeti -->
-  <a href="mailto:suleymangulter2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
-  </a>
-  <!-- GitHub Rozeti -->
+  <!-- GitHub (Animasyonlu İkon) -->
   <a href="https://github.com/suleymanngulter" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="38" height="38" alt="GitHub" style="vertical-align: middle; margin-right: 8px;" />
+  </a>
+  <!-- Gmail (Animasyonlu İkon) -->
+  <a href="mailto:suleymangulter2@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="38" alt="Gmail" style="vertical-align: middle;" />
   </a>
 </p>
