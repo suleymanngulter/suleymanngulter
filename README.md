@@ -6,8 +6,9 @@
 
 ## 🚀 About Me
 
-I am a Computer Engineering graduate from Düzce University. I specialize in backend development, microservices, and AI-driven applications. In every project I undertake, I prioritize building robust, scalable, and sustainable architectures with clean code principles, delivering maximum efficiency and social value.
+I am a Software Engineer and Computer Engineering graduate from Düzce University. I specialize in backend development, distributed systems, microservices, and AI-driven applications. In every project I undertake, I prioritize building robust, scalable, and sustainable architectures with clean code principles, delivering maximum efficiency and social value.
 
+Currently working as a **Software Engineer at Yukatech Bilişim A.Ş.**, designing and developing event-driven backend systems and microservices.
 
 ---
 
@@ -66,10 +67,19 @@ I am a Computer Engineering graduate from Düzce University. I specialize in bac
 
 ---
 
-## 📫 Contact & Links
+## 📫 Connect with Me
 
-* **Website:** [suleymangulter.com](https://www.suleymangulter.com/)
-* **LinkedIn:** [linkedin.com/in/suleymanngulter](https://www.linkedin.com/in/suleymanngulter/)
-* **GitHub:** [github.com/suleymanngulter](https://github.com/suleymanngulter)
-* **Email:** [suleymangulter2@gmail.com](mailto:suleymangulter2@gmail.com)
-* **Location:** Yalova / Kocaeli / Istanbul, Turkey
+<p align="left">
+  <a href="https://www.linkedin.com/in/suleymanngulter/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.suleymangulter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:suleymangulter2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/suleymanngulter" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
