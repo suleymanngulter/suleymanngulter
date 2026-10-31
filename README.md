@@ -6,9 +6,8 @@
 
 ## 🚀 About Me
 
-I am a Software Engineer and Computer Engineering graduate from Düzce University. I specialize in backend development, distributed systems, microservices, and AI-driven applications. In every project I undertake, I prioritize building robust, scalable, and sustainable architectures with clean code principles, delivering maximum efficiency and social value.
+I am a Computer Engineering graduate from Düzce University. I specialize in backend development, microservices, and AI-driven applications. In every project I undertake, I prioritize building robust, scalable, and sustainable architectures with clean code principles, delivering maximum efficiency and social value.
 
-Currently working as a **Software Engineer at Yukatech Bilişim A.Ş.**, designing and developing event-driven backend systems and microservices.
 
 ---
 
@@ -67,7 +66,6 @@ Currently working as a **Software Engineer at Yukatech Bilişim A.Ş.**, designi
 
 ---
 
-## 📫 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/suleymanngulter/" target="_blank">
