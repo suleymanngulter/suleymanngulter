@@ -60,7 +60,7 @@ I am a Computer Engineering graduate from Düzce University. I specialize in bac
 
 ## 🎓 Education
 
-* **Düzce University (2022 – 2026):** Bachelor of Science in Computer Engineering — *GPA: 3.19*
+* **Düzce University (2022 – 2026):** Bachelor of Science in Computer Engineering — *GPA: 3.23*
 * **Dumlupınar University (2021 – 2022):** Computer Engineering English Preparatory School — *GPA: 3.01 (Pearson B1 Certificate)*
 * **Karamürsel Anatolian High School (2017 – 2021)**
 
