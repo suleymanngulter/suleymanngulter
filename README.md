@@ -95,16 +95,20 @@ I am a Computer Engineering graduate from Düzce University. I specialize in bac
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/suleymanngulter/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
-  </a>
+  <!-- Web Sitesi Rozeti (Logoyu doğrudan suleymangulter.com favicon servisinden çeker) -->
   <a href="https://www.suleymangulter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" height="32" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" alt="Portfolio" />
   </a>
+  <!-- LinkedIn Rozeti -->
+  <a href="https://www.linkedin.com/in/suleymanngulter/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+  </a>
+  <!-- Gmail Rozeti -->
   <a href="mailto:suleymangulter2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="32" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
+  <!-- GitHub Rozeti -->
   <a href="https://github.com/suleymanngulter" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="32" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
   </a>
 </p>
