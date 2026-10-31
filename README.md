@@ -95,20 +95,20 @@ I am a Computer Engineering graduate from Düzce University. I specialize in bac
 ## 📫 Connect with Me
 
 <p align="left">
-  <!-- Web Siteniz ve Doğrudan Siteden Çekilen Logo -->
+  <!-- Web Siteniz (Siteden Çekilen Logo) -->
   <a href="https://www.suleymangulter.com/" target="_blank">
-    <img src="https://s2.googleusercontent.com/s2/favicons?domain=suleymangulter.com&sz=128" width="38" height="38" alt="Website" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;" />
+    <img src="https://s2.googleusercontent.com/s2/favicons?domain=suleymangulter.com&sz=128" width="40" height="40" alt="Website" style="border-radius: 8px; vertical-align: middle; margin-right: 8px;" />
   </a>
-  <!-- LinkedIn (Animasyonlu İkon) -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/suleymanngulter/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="38" alt="LinkedIn" style="vertical-align: middle; margin-right: 8px;" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" style="vertical-align: middle; margin-right: 8px;" />
   </a>
-  <!-- GitHub (Animasyonlu İkon) -->
+  <!-- GitHub (Karanlık/Aydınlık modla uyumlu çalışan SVG) -->
   <a href="https://github.com/suleymanngulter" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="38" height="38" alt="GitHub" style="vertical-align: middle; margin-right: 8px;" />
+    <img src="https://api.iconify.design/line-md:github-loop.svg?color=%23ffffff" width="40" height="40" alt="GitHub" style="background: #181717; border-radius: 8px; padding: 4px; vertical-align: middle; margin-right: 8px;" />
   </a>
-  <!-- Gmail (Animasyonlu İkon) -->
+  <!-- Gmail -->
   <a href="mailto:suleymangulter2@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="38" alt="Gmail" style="vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" style="vertical-align: middle;" />
   </a>
 </p>
