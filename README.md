@@ -112,3 +112,12 @@ I am a Computer Engineering graduate from Düzce University. I specialize in bac
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" style="vertical-align: middle;" />
   </a>
 </p>
+
+
+## 🐍 Contribution Graph Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suleymanngulter/suleymanngulter/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suleymanngulter/suleymanngulter/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/suleymanngulter/suleymanngulter/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
