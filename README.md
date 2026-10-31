@@ -1,17 +1,24 @@
 # 👋 Hello, I'm Süleyman Gülter
 
-<p align="left">
-  <img src="https://media.giphy.com/media/mpnijcWZLhDy5PMRjs/giphy.gif" width="300" alt="Software Developer Animation">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Software+Engineer;Backend+%26+Microservices+Architect;AI+%26+Distributed+Systems+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/mpnijcWZLhDy5PMRjs/giphy.gif" width="360" alt="Software Developer Animation">
 </p>
 
 ## 🚀 About Me
 
 I am a Computer Engineering graduate from Düzce University. I specialize in backend development, microservices, and AI-driven applications. In every project I undertake, I prioritize building robust, scalable, and sustainable architectures with clean code principles, delivering maximum efficiency and social value.
 
-
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,py,fastapi,dotnet,cs,go,postgres,mongodb,redis,rabbitmq,mysql,docker,react,nextjs,flutter,git,github" />
+</p>
 
 * **Backend & Systems:** Node.js, TypeScript, Express.js, Python, FastAPI, C#, ASP.NET Core, Go, REST APIs, Clean Architecture, Microservices, CQRS, Transactional Outbox, Retry/DLQ, Worker Threads.
 * **Databases & Messaging:** PostgreSQL, TimescaleDB, MongoDB, Redis, RabbitMQ, SQLite, MySQL, SQL Server, Supabase, pgvector.
@@ -58,6 +65,25 @@ I am a Computer Engineering graduate from Düzce University. I specialize in bac
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suleymanngulter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Süleyman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleymanngulter&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+## 🐍 Contribution Graph Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suleymanngulter/suleymanngulter/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suleymanngulter/suleymanngulter/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/suleymanngulter/suleymanngulter/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+---
+
 ## 🎓 Education
 
 * **Düzce University (2022 – 2026):** Bachelor of Science in Computer Engineering — *GPA: 3.23*
@@ -66,18 +92,19 @@ I am a Computer Engineering graduate from Düzce University. I specialize in bac
 
 ---
 
+## 📫 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/suleymanngulter/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
   </a>
   <a href="https://www.suleymangulter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" height="32" alt="Portfolio" />
   </a>
   <a href="mailto:suleymangulter2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="32" alt="Gmail" />
   </a>
   <a href="https://github.com/suleymanngulter" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="32" alt="GitHub" />
   </a>
 </p>
