@@ -1,8 +1,7 @@
-name: Generate Snake Animation
+name: Generate profile graphics
 
 on:
   schedule:
-    # Her 24 saatte bir otomatik çalışır
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
@@ -15,8 +14,22 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
+      - name: Restore last generated assets
+        uses: actions/checkout@v6
+        continue-on-error: true
+        with:
+          ref: output
+          path: previous-output
+
+      - name: Seed dist from previous output
+        run: |
+          mkdir -p dist
+          if [ -d previous-output ]; then
+            find previous-output -maxdepth 1 -type f -name '*.svg' -exec cp {} dist/ \;
+          fi
+
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -27,7 +40,26 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push snake animation to output branch
+      - name: Generate GitHub stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=suleymanngulter&show_icons=true&theme=tokyonight&hide_border=true
+          path: dist/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Snapshot streak card
+        continue-on-error: true
+        run: |
+          tmp="$(mktemp)"
+          curl -fsSL --retry 5 --retry-delay 3 \
+            "https://streak-stats.demolab.com/?user=suleymanngulter&theme=tokyonight&hide_border=true" \
+            -o "$tmp"
+          grep -q '<svg' "$tmp"
+          mv "$tmp" dist/github-streak.svg
+
+      - name: Push generated assets to output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
