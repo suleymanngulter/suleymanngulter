@@ -95,9 +95,9 @@ I am a Computer Engineering graduate from Düzce University. I specialize in bac
 ## 📫 Connect with Me
 
 <p align="left">
-  <!-- Web Siteniz (Logoyu siteden çeker) -->
+  <!-- Web sitesi (güncel SG logosu) -->
   <a href="https://www.suleymangulter.com/" target="_blank">
-    <img src="https://s2.googleusercontent.com/s2/favicons?domain=suleymangulter.com&sz=128" width="40" height="40" alt="Website" style="border-radius: 8px; vertical-align: middle; margin-right: 10px;" />
+    <img src="./assets/sg-logo.png" width="40" height="40" alt="Website" style="border-radius: 8px; vertical-align: middle; margin-right: 10px;" />
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/suleymanngulter/" target="_blank">
